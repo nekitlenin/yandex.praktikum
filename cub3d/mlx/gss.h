@@ -1,1 +1,0 @@
-void	mlx_get_screen_size(int *width, int *height);
